@@ -1,0 +1,2 @@
+# ug
+kripto_ugcoin
