@@ -2559,7 +2559,7 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1398180000;
+        block.nTime    = 1479408000;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
         block.nNonce   = 49689;
 		if(fTestNet)
