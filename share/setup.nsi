@@ -7,7 +7,7 @@ SetCompressor /SOLID lzma
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.3.0
 !define COMPANY "NovaCoin project"
-!define URL http://www.novacoin.org/
+!define URL http://www.novacoin.ru/
 
 # MUI Symbol Definitions
 !define MUI_ICON "../share/pixmaps/novacoin.ico"
