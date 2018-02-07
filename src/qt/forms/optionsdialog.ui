@@ -175,7 +175,7 @@
        <item>
         <widget class="QCheckBox" name="connectSocks">
          <property name="toolTip">
-          <string>Connect to the pinkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</string>
+          <string>Connect to the ugcoin network through a SOCKS proxy (e.g. when connecting through Tor).</string>
          </property>
          <property name="text">
           <string>&amp;Connect through SOCKS proxy:</string>
@@ -349,7 +349,7 @@
          <item>
           <widget class="QValueComboBox" name="lang">
            <property name="toolTip">
-            <string>The user interface language can be set here. This setting will take effect after restarting pinkcoin.</string>
+            <string>The user interface language can be set here. This setting will take effect after restarting ugcoin.</string>
            </property>
           </widget>
          </item>
