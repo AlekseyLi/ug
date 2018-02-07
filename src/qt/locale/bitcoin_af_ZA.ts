@@ -3106,12 +3106,12 @@ for example: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  pinkcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  ugcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>pinkcoin</source>
+        <source>ugcoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
