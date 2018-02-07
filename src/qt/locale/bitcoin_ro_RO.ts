@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About pinkcoin</source>
-        <translation>Despre pinkcoin</translation>
+        <source>About ugcoin</source>
+        <translation>Despre ugcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;pinkcoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;pinkcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;ugcoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;ugcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The pinkcoin developers</source>
+Copyright © 2014 The ugcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The pinkcoin developers</translation>
+Copyright © 2014 The ugcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your pinkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele pinkcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your ugcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele ugcoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a pinkcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă pinkcoin</translation>
+        <source>Sign a message to prove you own a ugcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă ugcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified pinkcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă pinkcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified ugcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă ugcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>pinkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>pinkcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>ugcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>ugcoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about pinkcoin</source>
-        <translation>Arată informații despre pinkcoin</translation>
+        <source>Show information about ugcoin</source>
+        <translation>Arată informații despre ugcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a pinkcoin address</source>
-        <translation>Trimite monede către o adresă pinkcoin</translation>
+        <source>Send coins to a ugcoin address</source>
+        <translation>Trimite monede către o adresă ugcoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for pinkcoin</source>
-        <translation>Modifică opțiuni de configurare pentru pinkcoin</translation>
+        <source>Modify configuration options for ugcoin</source>
+        <translation>Modifică opțiuni de configurare pentru ugcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About pinkcoin</source>
-        <translation>Despre pinkcoin</translation>
+        <source>&amp;About ugcoin</source>
+        <translation>Despre ugcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>pinkcoin client</source>
-        <translation>Clientul pinkcoin</translation>
+        <source>ugcoin client</source>
+        <translation>Clientul ugcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to pinkcoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua pinkcoin</numerusform><numerusform>%n conexiuni active la reteaua pinkcoin</numerusform><numerusform>%n conexiuni active la reteaua pinkcoin</numerusform></translation>
+        <source>%n active connection(s) to ugcoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua ugcoin</numerusform><numerusform>%n conexiuni active la reteaua ugcoin</numerusform><numerusform>%n conexiuni active la reteaua ugcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About pinkcoin card</source>
-        <translation>Despre cardul pinkcoin</translation>
+        <source>About ugcoin card</source>
+        <translation>Despre cardul ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about pinkcoin card</source>
-        <translation>Arată informații despre card pinkcoin</translation>
+        <source>Show information about ugcoin card</source>
+        <translation>Arată informații despre card ugcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid pinkcoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa pinkcoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid ugcoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa ugcoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. pinkcoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. pinkcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. ugcoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. ugcoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid pinkcoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă pinkcoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid ugcoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă ugcoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>pinkcoin-Qt</source>
-        <translation>pinkcoin-Qt</translation>
+        <source>ugcoin-Qt</source>
+        <translation>ugcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start pinkcoin after logging in to the system.</source>
-        <translation>Pornește pinkcoin imdiat după logarea în sistem</translation>
+        <source>Automatically start ugcoin after logging in to the system.</source>
+        <translation>Pornește ugcoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start pinkcoin on system login</source>
-        <translation>$Pornește pinkcoin la logarea în sistem</translation>
+        <source>&amp;Start ugcoin on system login</source>
+        <translation>$Pornește ugcoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the pinkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul pinkcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the ugcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul ugcoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the pinkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua pinkcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the ugcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua ugcoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting pinkcoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea pinkcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ugcoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea ugcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show pinkcoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese pinkcoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show ugcoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese ugcoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting pinkcoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea pinkcoin.</translation>
+        <source>This setting will take effect after restarting ugcoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea ugcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the pinkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua pinkcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ugcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua ugcoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the pinkcoin-Qt help message to get a list with possible pinkcoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor pinkcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă pinkcoin.</translation>
+        <source>Show the ugcoin-Qt help message to get a list with possible ugcoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor ugcoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă ugcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>pinkcoin - Debug window</source>
-        <translation>pinkcoin - fereastră depanare</translation>
+        <source>ugcoin - Debug window</source>
+        <translation>ugcoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>pinkcoin Core</source>
-        <translation>pinkcoin Core</translation>
+        <source>ugcoin Core</source>
+        <translation>ugcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the pinkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare pinkcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the ugcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare ugcoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the pinkcoin RPC console.</source>
-        <translation>Bine ati venit la consola pinkcoin RPC.</translation>
+        <source>Welcome to the ugcoin RPC console.</source>
+        <translation>Bine ati venit la consola ugcoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă pinkcoin(ex:pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă ugcoin(ex:ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid pinkcoin address</source>
-        <translation>Atenție: Adresă pinkcoin invalidă</translation>
+        <source>WARNING: Invalid ugcoin address</source>
+        <translation>Atenție: Adresă ugcoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa catre care trimiteti plata(ex. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa catre care trimiteti plata(ex. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă pinkcoin(ex:pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă ugcoin(ex:ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care semnati mesajul(ex. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care semnati mesajul(ex. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this pinkcoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă pinkcoin</translation>
+        <source>Sign the message to prove you own this ugcoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă ugcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified pinkcoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă pinkcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified ugcoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă ugcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă pinkcoin(ex:pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă ugcoin(ex:ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter pinkcoin signature</source>
-        <translation>Introduceti semnatura pinkcoin</translation>
+        <source>Enter ugcoin signature</source>
+        <translation>Introduceti semnatura ugcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>pinkcoin version</source>
-        <translation>Versiune pinkcoin</translation>
+        <source>ugcoin version</source>
+        <translation>Versiune ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or pinkcoind</source>
-        <translation>Trimite comanda catre server sau pinkcoind</translation>
+        <source>Send command to -server or ugcoind</source>
+        <translation>Trimite comanda catre server sau ugcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: pinkcoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: pinkcoin.conf)</translation>
+        <source>Specify configuration file (default: ugcoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: ugcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: pinkcoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: pinkcoin.pid)</translation>
+        <source>Specify pid file (default: ugcoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: ugcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong pinkcoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit pinkcoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ugcoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit ugcoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,22 +3000,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=pinkcoinrpc
+rpcuser=ugcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=pinkcoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=ugcoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  pinkcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  ugcoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of pinkcoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de pinkcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ugcoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart pinkcoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați pinkcoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart ugcoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați ugcoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. pinkcoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil pinkcoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. ugcoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil ugcoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>
