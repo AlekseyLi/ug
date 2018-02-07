@@ -532,7 +532,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>pinkcoin client</source>
+        <source>ugcoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
@@ -1038,7 +1038,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid pinkcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid ugcoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
