@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About pinkcoin</source>
+        <source>About ugcoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;pinkcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;ugcoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The pinkcoin developers</source>
+Copyright © 2014 The ugcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
