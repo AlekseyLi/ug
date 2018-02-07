@@ -3,13 +3,12 @@ Distributed under the MIT/X11 software license, see the accompanying file
 license.txt or http://www.opensource.org/licenses/mit-license.php.  This
 product includes software developed by the OpenSSL Project for use in the
 OpenSSL Toolkit (http://www.openssl.org/).  This product includes cryptographic
-software written by Eric Young (eay@cryptsoft.com) and UPnP software written by
-Thomas Bernard.
+software written by Aleksey Limanskiy (mskwgastarbayter@gmail.com) and UPnP software written by
+Aleksey danilyak.
 
 
 Mac OS X ugcoind build instructions
-Laszlo Hanyecz <solar@heliacal.net>
-Douglas Huff <dhuff@jrbobdobbs.org>
+Oleg Shumskiy
 
 
 See readme-qt.rst for instructions on building ugcoin QT, the
