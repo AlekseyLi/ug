@@ -17,14 +17,14 @@
 	<key>CFBundleExecutable</key>
 	<string>ugcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>pink.crypto.ugcoin-Qt</string>
+	<string>ug.crypto.ugcoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>pink.crypto.UgcoinPayment</string>
+            <string>ug.crypto.UgcoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
               <string>ugcoin</string>
