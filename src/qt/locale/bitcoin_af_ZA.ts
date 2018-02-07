@@ -1057,7 +1057,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>pinkcoin-Qt</source>
+        <source>ugcoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1130,7 +1130,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start pinkcoin after logging in to the system.</source>
+        <source>Automatically start ugcoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
