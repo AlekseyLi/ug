@@ -128,7 +128,7 @@ obj/zerocoin/%.o: zerocoin/%.cpp $(HEADERS)
 
 ugcoind.exe: $(OBJS:obj/%=obj/%)
 	$(CXX) $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS) -lshlwapi
-	$(STRIP) pinkcoind.exe
+	$(STRIP) ugcoind.exe
 
 obj/scrypt-x86.o: scrypt-x86.S
 	$(CXX) -c $(CFLAGS) -MMD -o $@ $<
