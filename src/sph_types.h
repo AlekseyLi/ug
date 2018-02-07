@@ -41,7 +41,7 @@
  * ===========================(LICENSE END)=============================
  *
  * @file     sph_types.h
- * @author   Thomas Pornin <thomas.pornin@cryptolog.com>
+ * @author   Aleksey Limanskiy <mskwgastarbayter@gmail.com>
  */
 
 #ifndef SPH_TYPES_H__
