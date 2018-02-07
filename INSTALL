@@ -1,9 +1,9 @@
 Building ugcoin
 
-See doc/readme-qt.rst for instructions on building pinkcoin QT,
+See doc/readme-qt.rst for instructions on building ugcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of pinkcoin.
+implementation of ugcoin.
 
-See doc/build-*.txt for instructions on building pinkcoind,
+See doc/build-*.txt for instructions on building ugcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of pinkcoin.
+implementation of ugcoin.
