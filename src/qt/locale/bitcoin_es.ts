@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About pinkcoin</source>
-        <translation>Acerca de pinkcoin</translation>
+        <source>About ugcoin</source>
+        <translation>Acerca de ugcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;pinkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;pinkcoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;ugcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;ugcoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The pinkcoin developers</source>
+Copyright © 2014 The ugcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The pinkcoin developers</translation>
+Copyright © 2014 The ugcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your pinkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de pinkcoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your ugcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de ugcoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a pinkcoin address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de pinkcoin</translation>
+        <source>Sign a message to prove you own a ugcoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de ugcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified pinkcoin address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de pinkcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified ugcoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de ugcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>pinkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>pinkcoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>ugcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>ugcoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about pinkcoin</source>
-        <translation>Mostrar información sobre pinkcoin</translation>
+        <source>Show information about ugcoin</source>
+        <translation>Mostrar información sobre ugcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a pinkcoin address</source>
-        <translation>Enviar monedas a una dirección de pinkcoin</translation>
+        <source>Send coins to a ugcoin address</source>
+        <translation>Enviar monedas a una dirección de ugcoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for pinkcoin</source>
-        <translation>Modificar las opciones de configuración para pinkcoin</translation>
+        <source>Modify configuration options for ugcoin</source>
+        <translation>Modificar las opciones de configuración para ugcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-202"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About pinkcoin</source>
-        <translation>Acerca de pinkcoin</translation>
+        <source>&amp;About ugcoin</source>
+        <translation>Acerca de ugcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>pinkcoin client</source>
-        <translation>Cliente pinkcoin</translation>
+        <source>ugcoin client</source>
+        <translation>Cliente ugcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to pinkcoin network</source>
-        <translation><numerusform>%n conexión activa a la red pinkcoin</numerusform><numerusform>%n conexiones activas a la red pinkcoin</numerusform></translation>
+        <source>%n active connection(s) to ugcoin network</source>
+        <translation><numerusform>%n conexión activa a la red ugcoin</numerusform><numerusform>%n conexiones activas a la red ugcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -587,13 +587,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-312"/>
-        <source>About pinkcoin card</source>
-        <translation>Sobre la tarjeta pinkcoin</translation>
+        <source>About ugcoin card</source>
+        <translation>Sobre la tarjeta ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about pinkcoin card</source>
-        <translation>Mostrar información sobre la tarjeta pinkcoin</translation>
+        <source>Show information about ugcoin card</source>
+        <translation>Mostrar información sobre la tarjeta ugcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -672,8 +672,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid pinkcoin address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de pinkcoin no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid ugcoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de ugcoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -732,8 +732,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. pinkcoin can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. pinkcoin ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. ugcoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. ugcoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1066,8 +1066,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid pinkcoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de pinkcoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid ugcoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de ugcoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1085,8 +1085,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>pinkcoin-Qt</source>
-        <translation>pinkcoin-Qt</translation>
+        <source>ugcoin-Qt</source>
+        <translation>ugcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1158,13 +1158,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start pinkcoin after logging in to the system.</source>
-        <translation>Iniciar pinkcoin automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start ugcoin after logging in to the system.</source>
+        <translation>Iniciar ugcoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start pinkcoin on system login</source>
-        <translation>&amp;Iniciar pinkcoin al inicio del sistema</translation>
+        <source>&amp;Start ugcoin on system login</source>
+        <translation>&amp;Iniciar ugcoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the pinkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente pinkcoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the ugcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente ugcoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1193,8 +1193,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the pinkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de pinkcoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the ugcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de ugcoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1268,8 +1268,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting pinkcoin.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar pinkcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ugcoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar ugcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1283,8 +1283,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show pinkcoin addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de pinkcoin en la lista de transacciones o no.</translation>
+        <source>Whether to show ugcoin addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de ugcoin en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1330,8 +1330,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting pinkcoin.</source>
-        <translation>Esta configuración se aplicará después de reiniciar pinkcoin.</translation>
+        <source>This setting will take effect after restarting ugcoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar ugcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1349,8 +1349,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the pinkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red pinkcoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ugcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red ugcoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1565,8 +1565,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the pinkcoin-Qt help message to get a list with possible pinkcoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de pinkcoin-Qt para obtener una lista con las posibles opciones de línea de comandos para pinkcoin.</translation>
+        <source>Show the ugcoin-Qt help message to get a list with possible ugcoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de ugcoin-Qt para obtener una lista con las posibles opciones de línea de comandos para ugcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1585,13 +1585,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>pinkcoin - Debug window</source>
-        <translation>pinkcoin - Ventana de depuración</translation>
+        <source>ugcoin - Debug window</source>
+        <translation>ugcoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>pinkcoin Core</source>
-        <translation>Núcleo pinkcoin</translation>
+        <source>ugcoin Core</source>
+        <translation>Núcleo ugcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the pinkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de pinkcoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the ugcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de ugcoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1610,8 +1610,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the pinkcoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de pinkcoin</translation>
+        <source>Welcome to the ugcoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1769,8 +1769,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección pinkcoin (p.ej. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección ugcoin (p.ej. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1869,8 +1869,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid pinkcoin address</source>
-        <translation>ADVERTENCIA: Dirección pinkcoin inválida</translation>
+        <source>WARNING: Invalid ugcoin address</source>
+        <translation>ADVERTENCIA: Dirección ugcoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1913,8 +1913,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección a la que se quiere enviar el pago (p.ej. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a la que se quiere enviar el pago (p.ej. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1943,8 +1943,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección pinkcoin (p.ej. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección ugcoin (p.ej. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1967,8 +1967,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección a firmar con un mensaje (p.ej. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a firmar con un mensaje (p.ej. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2004,8 +2004,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this pinkcoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección pinkcoin.</translation>
+        <source>Sign the message to prove you own this ugcoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección ugcoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,13 +2031,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección firmada con un mensaje (p.ej. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección firmada con un mensaje (p.ej. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified pinkcoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección pinkcoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified ugcoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección ugcoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección pinkcoin (p.ej pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección ugcoin (p.ej ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2057,8 +2057,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter pinkcoin signature</source>
-        <translation>Introduce la firma pinkcoin</translation>
+        <source>Enter ugcoin signature</source>
+        <translation>Introduce la firma ugcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2628,8 +2628,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>pinkcoin version</source>
-        <translation>versión pinkcoin</translation>
+        <source>ugcoin version</source>
+        <translation>versión ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2638,8 +2638,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or pinkcoind</source>
-        <translation>Envía un comando a -server o pinkcoind</translation>
+        <source>Send command to -server or ugcoind</source>
+        <translation>Envía un comando a -server o ugcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2661,13 +2661,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: pinkcoin.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: pinkcoin.conf)</translation>
+        <source>Specify configuration file (default: ugcoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: ugcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: pinkcoind.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: pinkcoind.pid)</translation>
+        <source>Specify pid file (default: ugcoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: ugcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2819,8 +2819,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong pinkcoin will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo pinkcoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ugcoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo ugcoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3010,24 +3010,24 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=pinkcoinrpc
+rpcuser=ugcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=pinkcoinrpc
+rpcuser=ugcoinrpc
 rpcpassword=%s
 (no necesita recordar este password)
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3159,13 +3159,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  pinkcoin is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. pinkcoin probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  ugcoin is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. ugcoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3199,13 +3199,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of pinkcoin</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de pinkcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ugcoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart pinkcoin to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie pinkcoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart ugcoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie ugcoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3274,8 +3274,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. pinkcoin is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. pinkcoin probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. ugcoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. ugcoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>
