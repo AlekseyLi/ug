@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About pinkcoin</source>
-        <translation>Tietoa pinkcoinista</translation>
+        <source>About ugcoin</source>
+        <translation>Tietoa ugcoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;pinkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;pinkcoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;ugcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;ugcoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The pinkcoin developers</source>
+Copyright © 2014 The ugcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -64,8 +64,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your pinkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat pinkcoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your ugcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat ugcoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,8 +79,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a pinkcoin address</source>
-        <translation>Allekirjoita viesti osoittaaksesi pinkcoin-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a ugcoin address</source>
+        <translation>Allekirjoita viesti osoittaaksesi ugcoin-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified pinkcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen pinkcoin-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified ugcoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen ugcoin-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>pinkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>pinkcoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>ugcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>ugcoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about pinkcoin</source>
-        <translation>Näytä tietoja pinkcoinista</translation>
+        <source>Show information about ugcoin</source>
+        <translation>Näytä tietoja ugcoinista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -426,13 +426,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a pinkcoin address</source>
-        <translation>Lähetä kolikkoja pinkcoin osoitteeseen</translation>
+        <source>Send coins to a ugcoin address</source>
+        <translation>Lähetä kolikkoja ugcoin osoitteeseen</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for pinkcoin</source>
-        <translation>Mukauta pinkcoinin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for ugcoin</source>
+        <translation>Mukauta ugcoinin konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-202"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,8 +481,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About pinkcoin</source>
-        <translation>&amp;Tietoa pinkcoinista</translation>
+        <source>&amp;About ugcoin</source>
+        <translation>&amp;Tietoa ugcoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>pinkcoin client</source>
-        <translation>pinkcoin-asiakas</translation>
+        <source>ugcoin client</source>
+        <translation>ugcoin-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to pinkcoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys pinkcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä pinkcoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to ugcoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys ugcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä ugcoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -583,12 +583,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-312"/>
-        <source>About pinkcoin card</source>
+        <source>About ugcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about pinkcoin card</source>
+        <source>Show information about ugcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid pinkcoin address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä pinkcoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid ugcoin address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä ugcoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. pinkcoin can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. pinkcoin-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. ugcoin can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. ugcoin-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid pinkcoin address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty pinkcoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid ugcoin address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty ugcoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>pinkcoin-Qt</source>
-        <translation>pinkcoin-Qt</translation>
+        <source>ugcoin-Qt</source>
+        <translation>ugcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start pinkcoin after logging in to the system.</source>
-        <translation>Käynnistä pinkcoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start ugcoin after logging in to the system.</source>
+        <translation>Käynnistä ugcoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start pinkcoin on system login</source>
-        <translation>%Käynnistä pinkcoin-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start ugcoin on system login</source>
+        <translation>%Käynnistä ugcoin-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the pinkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa pinkcoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the ugcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa ugcoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the pinkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä pinkcoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the ugcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä ugcoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting pinkcoin.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta pinkcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ugcoin.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta ugcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show pinkcoin addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota pinkcoin-osoitteet rahansiirtolistassa.</translation>
+        <source>Whether to show ugcoin addresses in the transaction list or not.</source>
+        <translation>Näytä tai piilota ugcoin-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting pinkcoin.</source>
-        <translation>Tämä asetus tulee voimaan vasta pinkcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting ugcoin.</source>
+        <translation>Tämä asetus tulee voimaan vasta ugcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the pinkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti pinkcoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ugcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti ugcoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the pinkcoin-Qt help message to get a list with possible pinkcoin command-line options.</source>
-        <translation>Näytä pinkcoin-Qt:n avustusohje saadaksesi listan käytettävistä pinkcoinin komentokehotteen määritteistä.</translation>
+        <source>Show the ugcoin-Qt help message to get a list with possible ugcoin command-line options.</source>
+        <translation>Näytä ugcoin-Qt:n avustusohje saadaksesi listan käytettävistä ugcoinin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>pinkcoin - Debug window</source>
-        <translation>pinkcoin - Debug-ikkuna</translation>
+        <source>ugcoin - Debug window</source>
+        <translation>ugcoin - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>pinkcoin Core</source>
-        <translation>pinkcoinin ydin</translation>
+        <source>ugcoin Core</source>
+        <translation>ugcoinin ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the pinkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa pinkcoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the ugcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa ugcoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the pinkcoin RPC console.</source>
-        <translation>Tervetuloa pinkcoinin RPC-konsoliin.</translation>
+        <source>Welcome to the ugcoin RPC console.</source>
+        <translation>Tervetuloa ugcoinin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Syötä pinkcoin-osoite (esim. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syötä ugcoin-osoite (esim. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid pinkcoin address</source>
-        <translation>VAROITUS: Epäkelpo pinkcoin-osoite</translation>
+        <source>WARNING: Invalid ugcoin address</source>
+        <translation>VAROITUS: Epäkelpo ugcoin-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1908,8 +1908,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, johon maksu lähetetään (esim. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Syötä pinkcoin-osoite (esim. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syötä ugcoin-osoite (esim. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1999,8 +1999,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this pinkcoin address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän pinkcoin-osoitteen</translation>
+        <source>Sign the message to prove you own this ugcoin address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän ugcoin-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,13 +2026,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
+        <source>The address the message was signed with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified pinkcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä pinkcoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified ugcoin address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä ugcoin-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Syötä pinkcoin-osoite (esim. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syötä ugcoin-osoite (esim. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter pinkcoin signature</source>
-        <translation>Syötä pinkcoin-allekirjoitus</translation>
+        <source>Enter ugcoin signature</source>
+        <translation>Syötä ugcoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>pinkcoin version</source>
-        <translation>pinkcoinin versio</translation>
+        <source>ugcoin version</source>
+        <translation>ugcoinin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2633,8 +2633,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or pinkcoind</source>
-        <translation>Syötä komento kohteeseen -server tai pinkcoind</translation>
+        <source>Send command to -server or ugcoind</source>
+        <translation>Syötä komento kohteeseen -server tai ugcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2653,13 +2653,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: pinkcoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: pinkcoin.conf)</translation>
+        <source>Specify configuration file (default: ugcoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: ugcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: pinkcoind.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: pinkcoin.pid)</translation>
+        <source>Specify pid file (default: ugcoind.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: ugcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong pinkcoin will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, pinkcoin ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ugcoin will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, ugcoin ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,23 +2998,23 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=pinkcoinrpc
+rpcuser=ugcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
 On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=pinkcoinrpc
+rpcuser=ugcoinrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa)
 Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3139,13 +3139,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  pinkcoin is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. pinkcoin-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  ugcoin is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. ugcoin-asiakasohjelma on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3179,13 +3179,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of pinkcoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version pinkcoin-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ugcoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version ugcoin-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart pinkcoin to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä pinkcoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart ugcoin to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä ugcoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3254,8 +3254,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. pinkcoin is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. pinkcoin-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. ugcoin is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. ugcoin-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-97"/>
