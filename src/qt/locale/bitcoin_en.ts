@@ -5,19 +5,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About pinkcoin</source>
-        <translation>About pinkcoin</translation>
+        <source>About ugcoin</source>
+        <translation>About ugcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;pinkcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;pinkcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;ugcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;ugcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The pinkcoin developers</source>
+Copyright © 2014 The ugcoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your pinkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your pinkcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your ugcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your ugcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a pinkcoin address</source>
-        <translation>Sign a message to prove you own a pinkcoin address</translation>
+        <source>Sign a message to prove you own a ugcoin address</source>
+        <translation>Sign a message to prove you own a ugcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified pinkcoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified pinkcoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified ugcoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified ugcoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>pinkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>pinkcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>ugcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>ugcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about pinkcoin</source>
-        <translation>Show information about pinkcoin</translation>
+        <source>Show information about ugcoin</source>
+        <translation>Show information about ugcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a pinkcoin address</source>
-        <translation>Send coins to a pinkcoin address</translation>
+        <source>Send coins to a ugcoin address</source>
+        <translation>Send coins to a ugcoin address</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for pinkcoin</source>
-        <translation>Modify configuration options for pinkcoin</translation>
+        <source>Modify configuration options for ugcoin</source>
+        <translation>Modify configuration options for ugcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About pinkcoin</source>
-        <translation>&amp;About pinkcoin</translation>
+        <source>&amp;About ugcoin</source>
+        <translation>&amp;About ugcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,15 +542,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>pinkcoin client</source>
-        <translation>pinkcoin client</translation>
+        <source>ugcoin client</source>
+        <translation>ugcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to pinkcoin network</source>
+        <source>%n active connection(s) to ugcoin network</source>
         <translation>
-            <numerusform>%n active connection to pinkcoin network</numerusform>
-            <numerusform>%n active connections to pinkcoin network</numerusform>
+            <numerusform>%n active connection to ugcoin network</numerusform>
+            <numerusform>%n active connections to ugcoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -593,12 +593,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About pinkcoin card</source>
+        <source>About ugcoin card</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about pinkcoin card</source>
+        <source>Show information about ugcoin card</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -687,8 +687,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid pinkcoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid pinkcoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid ugcoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid ugcoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -759,8 +759,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. pinkcoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. pinkcoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. ugcoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. ugcoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1079,8 +1079,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid pinkcoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid pinkcoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid ugcoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid ugcoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1098,8 +1098,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>pinkcoin-Qt</source>
-        <translation>pinkcoin-Qt</translation>
+        <source>ugcoin-Qt</source>
+        <translation>ugcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1171,13 +1171,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start pinkcoin after logging in to the system.</source>
-        <translation>Automatically start pinkcoin after logging in to the system.</translation>
+        <source>Automatically start ugcoin after logging in to the system.</source>
+        <translation>Automatically start ugcoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start pinkcoin on system login</source>
-        <translation>&amp;Start pinkcoin on system login</translation>
+        <source>&amp;Start ugcoin on system login</source>
+        <translation>&amp;Start ugcoin on system login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1196,8 +1196,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the pinkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the pinkcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the ugcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the ugcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1206,8 +1206,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the pinkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the pinkcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the ugcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the ugcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1281,8 +1281,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting pinkcoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting pinkcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting ugcoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting ugcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1296,8 +1296,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show pinkcoin addresses in the transaction list or not.</source>
-        <translation>Whether to show pinkcoin addresses in the transaction list or not.</translation>
+        <source>Whether to show ugcoin addresses in the transaction list or not.</source>
+        <translation>Whether to show ugcoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1343,8 +1343,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting pinkcoin.</source>
-        <translation>This setting will take effect after restarting pinkcoin.</translation>
+        <source>This setting will take effect after restarting ugcoin.</source>
+        <translation>This setting will take effect after restarting ugcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1362,8 +1362,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the pinkcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the pinkcoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the ugcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the ugcoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1578,8 +1578,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the pinkcoin-Qt help message to get a list with possible pinkcoin command-line options.</source>
-        <translation>Show the pinkcoin-Qt help message to get a list with possible pinkcoin command-line options.</translation>
+        <source>Show the ugcoin-Qt help message to get a list with possible ugcoin command-line options.</source>
+        <translation>Show the ugcoin-Qt help message to get a list with possible ugcoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1598,13 +1598,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>pinkcoin - Debug window</source>
-        <translation>pinkcoin - Debug window</translation>
+        <source>ugcoin - Debug window</source>
+        <translation>ugcoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>pinkcoin Core</source>
-        <translation>pinkcoin Core</translation>
+        <source>ugcoin Core</source>
+        <translation>ugcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1613,8 +1613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the pinkcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the pinkcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the ugcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the ugcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1623,8 +1623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the pinkcoin RPC console.</source>
-        <translation>Welcome to the pinkcoin RPC console.</translation>
+        <source>Welcome to the ugcoin RPC console.</source>
+        <translation>Welcome to the ugcoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1782,8 +1782,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1882,7 +1882,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid pinkcoin address</source>
+        <source>WARNING: Invalid ugcoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1926,7 +1926,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>The address to send the payment to  (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation></translation>
     </message>
     <message>
@@ -1956,8 +1956,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1980,8 +1980,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>The address to sign the message with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>The address to sign the message with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2017,8 +2017,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this pinkcoin address</source>
-        <translation>Sign the message to prove you own this pinkcoin address</translation>
+        <source>Sign the message to prove you own this ugcoin address</source>
+        <translation>Sign the message to prove you own this ugcoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,13 +2044,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>The address the message was signed with (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>The address the message was signed with (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified pinkcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified pinkcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified ugcoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified ugcoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2060,8 +2060,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a pinkcoin address (e.g. pinkcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a ugcoin address (e.g. ugcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2070,8 +2070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter pinkcoin signature</source>
-        <translation>Enter pinkcoin signature</translation>
+        <source>Enter ugcoin signature</source>
+        <translation>Enter ugcoin signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2653,8 +2653,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>pinkcoin version</source>
-        <translation>pinkcoin version</translation>
+        <source>ugcoin version</source>
+        <translation>ugcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2663,8 +2663,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or pinkcoind</source>
-        <translation>Send command to -server or pinkcoind</translation>
+        <source>Send command to -server or ugcoind</source>
+        <translation>Send command to -server or ugcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2683,13 +2683,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: pinkcoin.conf)</source>
-        <translation>Specify configuration file (default: pinkcoin.conf)</translation>
+        <source>Specify configuration file (default: ugcoin.conf)</source>
+        <translation>Specify configuration file (default: ugcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: pinkcoind.pid)</source>
-        <translation>Specify pid file (default: pinkcoind.pid)</translation>
+        <source>Specify pid file (default: ugcoind.pid)</source>
+        <translation>Specify pid file (default: ugcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2838,8 +2838,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong pinkcoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong pinkcoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ugcoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong ugcoin will not work properly.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3027,13 +3027,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=pinkcoinrpc
+rpcuser=ugcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;ugcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3159,13 +3159,13 @@ for example: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  pinkcoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  pinkcoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s.  ugcoin is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s.  ugcoin is probably already running.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>pinkcoin</source>
-        <translation>pinkcoin</translation>
+        <source>ugcoin</source>
+        <translation>ugcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3199,13 +3199,13 @@ for example: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of pinkcoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of pinkcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of ugcoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of ugcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart pinkcoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart pinkcoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart ugcoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart ugcoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3274,8 +3274,8 @@ for example: alertnotify=echo %%s | mail -s &quot;pinkcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. pinkcoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. pinkcoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. ugcoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. ugcoin is probably already running.</translation>
     </message>
     <message>
         <location line="-97"/>
